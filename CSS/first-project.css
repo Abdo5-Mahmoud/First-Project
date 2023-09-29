@@ -1,7 +1,7 @@
 body{
     box-sizing: border-box;
     margin: 0;
-    background-image: url(img/nasa-Q1p7bh3SHj8-unsplash.jpg);
+    background-image: url(../img/nasa-Q1p7bh3SHj8-unsplash.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat:no-repeat;
@@ -88,7 +88,7 @@ opacity: 1;
 }
 /* //////////////// */
 .land{
-    background-image: url(img/R0.png);
+    background-image: url(../img/R0.png);
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -420,7 +420,7 @@ width: 0;
     margin: 100px 0;
 }
 .services .container {
-    background: url(img/markus-spiske-8OyKWQgBsKQ-unsplash.jpg) fixed ;
+    background: url(../img/markus-spiske-8OyKWQgBsKQ-unsplash.jpg) fixed ;
     background-size: contain;
     border-radius: 10px;
     padding: 10px;
@@ -813,7 +813,7 @@ width: 0;
 /* ______________________________________ */
 .layer{
     margin: 100px 0;
-    background-image: url(./img/nasa-1lfI7wkGWZ4-unsplash.jpg);
+    background-image: url(./../img/nasa-1lfI7wkGWZ4-unsplash.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     position: relative;
